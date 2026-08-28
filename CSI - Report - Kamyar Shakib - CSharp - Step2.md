@@ -38,8 +38,9 @@
 ### 🗓️ Friday (1405-06-06)
 - No activities today.
 - ⏱️ **Working Hours Today:** 0
-### 🗓️ Saturday (1405-xx-xx)
-- ⏱️ **Working Hours Today:** xx
+### 🗓️ Saturday (1405-06-07)
+- تموم کردن کتاب فصل دوم.
+- ⏱️ **Working Hours Today:** 2
 ### 🗓️ Sunday (1405-xx-xx)
 - ⏱️ **Working Hours Today:** xx
 
