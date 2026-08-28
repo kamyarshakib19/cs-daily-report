@@ -33,14 +33,14 @@
 - ⏱️ **Working Hours Today:** xx
 ### 🗓️ Wednesday (1405-xx-xx)
 - ⏱️ **Working Hours Today:** xx
-### 🗓️ Thursday (1405-xx-xx)
-- ⏱️ **Working Hours Today:** xx
-### 🗓️ Friday (1405-06-06)
+### 🗓️ Thursday (1405-06-06)
 - No activities today.
 - ⏱️ **Working Hours Today:** 0
-### 🗓️ Saturday (1405-06-07)
--. تموم کردن کتاب فصل دوم.
+### 🗓️ Friday (1405-06-07)
+-. تموم کردن کتاب فصل سوم.
 - ⏱️ **Working Hours Today:** 2
+### 🗓️ Saturday (1405-06-08)
+- ⏱️ **Working Hours Today:** xx
 ### 🗓️ Sunday (1405-xx-xx)
 - ⏱️ **Working Hours Today:** xx
 
