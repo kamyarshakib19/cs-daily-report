@@ -40,7 +40,16 @@
 -. تموم کردن کتاب فصل سوم.
 - ⏱️ **Working Hours Today:** 2
 ### 🗓️ Saturday (1405-06-08)
-- ⏱️ **Working Hours Today:** xx
+### 📋 Task #1: name
+
+| Social                 | Link | Date |
+| ---------------------- | ---- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |   https://t.me/c/1326872711/13807   |   https://t.me/c/1326872711/13803   |    https://t.me/c/1326872711/13802    |   06-08   |
+| ![LinkedIn](images/linkedin-icon.svg)   |      |   06-08   |
+| ![Twitter](images/twitter-icon.svg)     |   https://x.com/kamyar_sha/status/2093580627824070747   |  https://x.com/kamyar_sha/status/2093595345372561581  |  https://x.com/kamyar_sha/status/2093689401897267527  |  06-08   |
+
+.دوره ی کناب و پست گذاشتن براش.
+- ⏱️ **Working Hours Today:** 3
 ### 🗓️ Sunday (1405-xx-xx)
 - ⏱️ **Working Hours Today:** xx
 
