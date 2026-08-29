@@ -40,7 +40,7 @@
 -. تموم کردن کتاب فصل سوم.
 - ⏱️ **Working Hours Today:** 2
 ### 🗓️ Saturday (1405-06-07)
-### 📋 Task #1: C# book, chapter 3 Types
+### 📋 Task #1: C# book, chapter 3 ,Types
 
 | Social                 | Link | Date |
 | ---------------------- | ---- | ---- |
