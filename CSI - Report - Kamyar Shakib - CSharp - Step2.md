@@ -50,13 +50,14 @@
 
 .دوره ی کناب و پست گذاشتن براش.
 - ⏱️ **Working Hours Today:** 3
-### 🗓️ Sunday (1405-xx-xx)
-- ⏱️ **Working Hours Today:** xx
+### 🗓️ Sunday (1405-06-08)
+- ⏱️ **Working Hours Today:** 1
+- شرکت در جلسه کارگاهی 5
 
 ### 🤝 Meetings Attended
 | Title/Purpose         | 📅 Date    |
 | --------------------- | ---------- |
-| [Meeting Description] | YYYY-MM-DD |
+| جلسه کارگاهی ویدیوی 5 | 1405/06/08 |
 
 ### 😊 Weekly Satisfaction Assessment
 | 📊 Satisfaction Level            | ⭐ Rating |
