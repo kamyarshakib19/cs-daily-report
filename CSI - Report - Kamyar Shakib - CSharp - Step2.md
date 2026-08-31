@@ -90,7 +90,7 @@
 
 ### 🗓️ Monday (1405-06-09)
 -خوندن داکیومنت های debuging
-- ⏱️ **Working Hours Today:** xx
+- ⏱️ **Working Hours Today:** 3
 ### 🗓️ Tuesday (1405-xx-xx)
 - ⏱️ **Working Hours Today:** xx
 ### 🗓️ Wednesday (1405-xx-xx)
