@@ -27,12 +27,15 @@
 | ![Twitter](images/twitter-icon.svg)     |      |      |
 ```
 
-### 🗓️ Monday (1405-xx-xx)
-- ⏱️ **Working Hours Today:** xx
-### 🗓️ Tuesday (1405-xx-xx)
-- ⏱️ **Working Hours Today:** xx
-### 🗓️ Wednesday (1405-xx-xx)
-- ⏱️ **Working Hours Today:** xx
+### 🗓️ Monday (1405-06-02)
+-ادامه کتاب و نوشتن پست براش
+- ⏱️ **Working Hours Today:** 4
+### 🗓️ Tuesday (1405-06-03)
+-ادامه کتاب و نوشتن پست براش
+- ⏱️ **Working Hours Today:** 3
+### 🗓️ Wednesday (1405-06-04)
+-ادامه کتاب و نوشتن پست براش
+- ⏱️ **Working Hours Today:** 2
 ### 🗓️ Thursday (1405-06-05)
 - No activities today.
 - ⏱️ **Working Hours Today:** 0
@@ -62,8 +65,8 @@
 ### 😊 Weekly Satisfaction Assessment
 | 📊 Satisfaction Level            | ⭐ Rating |
 | -------------------------------- | --------- |
-| ⏱️ **Total Hours This Week**     | xx of xx hours |
-| **Overall Satisfaction**         | [XX]%     |
+| ⏱️ **Total Hours This Week**     | 16 of 25 hours |
+| **Overall Satisfaction**         | [50]%     |
 ### ✍️ Additional Notes (Optional)
 *Use this section for any other activities or explanations not covered above.*
 - [Your point 1]
@@ -85,7 +88,8 @@
 | ![Twitter](images/twitter-icon.svg)     |      |      |
 ```
 
-### 🗓️ Monday (1405-xx-xx)
+### 🗓️ Monday (1405-06-09)
+-خوندن داکیومنت های debuging
 - ⏱️ **Working Hours Today:** xx
 ### 🗓️ Tuesday (1405-xx-xx)
 - ⏱️ **Working Hours Today:** xx
