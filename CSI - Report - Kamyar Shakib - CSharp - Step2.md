@@ -91,8 +91,16 @@
 ### 🗓️ Monday (1405-06-09)
 -خوندن داکیومنت های debuging
 - ⏱️ **Working Hours Today:** 3
-### 🗓️ Tuesday (1405-xx-xx)
-- ⏱️ **Working Hours Today:** xx
+### 🗓️ Tuesday (1405-06-10)
+-تمام کردن داکیومنت های debuging
+- ⏱️ **Working Hours Today:** 1
+### 📋 Task #2: What is debugging?
+
+| Social                 | Link | Date |
+| ---------------------- | ---- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |      |      |
+| ![LinkedIn](images/linkedin-icon.svg)   |   https://lnkd.in/p/e8jGv2bg   |   06-10   |
+| ![Twitter](images/twitter-icon.svg)     |      |      |
 ### 🗓️ Wednesday (1405-xx-xx)
 - ⏱️ **Working Hours Today:** xx
 ### 🗓️ Thursday (1405-xx-xx)
