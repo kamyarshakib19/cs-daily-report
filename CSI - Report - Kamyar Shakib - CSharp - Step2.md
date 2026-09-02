@@ -98,11 +98,35 @@
 
 | Social                 | Link | Date |
 | ---------------------- | ---- | ---- |
-| ![Telegram](images/telegram-icon.svg)   |      |      |
+| ![Telegram](images/telegram-icon.svg)   |   https://t.me/c/1326872711/13834   |   06-11   |
 | ![LinkedIn](images/linkedin-icon.svg)   |   https://lnkd.in/p/e8jGv2bg   |   06-10   |
-| ![Twitter](images/twitter-icon.svg)     |      |      |
-### 🗓️ Wednesday (1405-xx-xx)
-- ⏱️ **Working Hours Today:** xx
+| ![Twitter](images/twitter-icon.svg)     |   https://x.com/kamyar_sha/status/2095023404696879447   |   06-11   |
+### 🗓️ Wednesday (1405-06-11)
+-نوشتن پست برای داکیومنت های debuging
+- ⏱️ **Working Hours Today:** 4
+### 📋 Task #3: Tutorial: Learn to debug C# code using Visual Studio
+
+| Social                 | Link | Date |
+| ---------------------- | ---- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |   https://t.me/c/1326872711/13835   |   06-11   |
+| ![LinkedIn](images/linkedin-icon.svg)   |   https://lnkd.in/p/e3-zZj3H   |   06-11   |
+| ![Twitter](images/twitter-icon.svg)     |   https://x.com/kamyar_sha/status/2095027219181494717   |   06-11   |
+
+### 📋 Task #4: First look at the Visual Studio Debugger
+
+| Social                 | Link | Date |
+| ---------------------- | ---- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |   https://t.me/c/1326872711/13836   |   06-11   |
+| ![LinkedIn](images/linkedin-icon.svg)   |   https://lnkd.in/p/eQzhwsjs   |   06-11   |
+| ![Twitter](images/twitter-icon.svg)     |   https://x.com/kamyar_sha/status/2095044962912018842   |   06-11   |
+
+### 📋 Task #5: Use breakpoints in the Visual Studio debugger
+
+| Social                 | Link | Date |
+| ---------------------- | ---- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |   https://t.me/c/1326872711/13837   |   06-11   |
+| ![LinkedIn](images/linkedin-icon.svg)   |   https://lnkd.in/p/ekmt-DzA   |   06-11   |
+| ![Twitter](images/twitter-icon.svg)     |   https://x.com/kamyar_sha/status/2095062786267049987   |   06-11   |
 ### 🗓️ Thursday (1405-xx-xx)
 - ⏱️ **Working Hours Today:** xx
 ### 🗓️ Friday (1405-xx-xx)
