@@ -127,8 +127,9 @@
 | ![Telegram](images/telegram-icon.svg)   |   https://t.me/c/1326872711/13837   |   06-11   |
 | ![LinkedIn](images/linkedin-icon.svg)   |   https://lnkd.in/p/ekmt-DzA   |   06-11   |
 | ![Twitter](images/twitter-icon.svg)     |   https://x.com/kamyar_sha/status/2095062786267049987   |   06-11   |
-### 🗓️ Thursday (1405-xx-xx)
-- ⏱️ **Working Hours Today:** xx
+### 🗓️ Thursday (1405-06-12)
+-کاری نکردم
+- ⏱️ **Working Hours Today:** 0
 ### 🗓️ Friday (1405-xx-xx)
 - ⏱️ **Working Hours Today:** xx
 ### 🗓️ Saturday (1405-xx-xx)
