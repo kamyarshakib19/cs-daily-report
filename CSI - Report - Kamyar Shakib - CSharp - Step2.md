@@ -130,8 +130,9 @@
 ### 🗓️ Thursday (1405-06-12)
 -کاری نکردم
 - ⏱️ **Working Hours Today:** 0
-### 🗓️ Friday (1405-xx-xx)
-- ⏱️ **Working Hours Today:** xx
+### 🗓️ Friday (1405-06-13)
+-دیدن دوتا ویدیوی مربوط با breakpoint ها و نوشتن پست براشون و تمرینشون.
+- ⏱️ **Working Hours Today:** 3
 ### 🗓️ Saturday (1405-xx-xx)
 - ⏱️ **Working Hours Today:** xx
 ### 🗓️ Sunday (1405-xx-xx)
