@@ -133,8 +133,16 @@
 ### 🗓️ Friday (1405-06-13)
 -دیدن دوتا ویدیوی مربوط با breakpoint ها و نوشتن پست براشون و تمرینشون.
 - ⏱️ **Working Hours Today:** 3
-### 🗓️ Saturday (1405-xx-xx)
-- ⏱️ **Working Hours Today:** xx
+### 🗓️ Saturday (1405-06-14)
+-نوشتن و گذاشتن پست برای ویدیو های مربوط به breake point
+- ⏱️ **Working Hours Today:** 1
+### 📋 Task #6: C# Breakpoints and Conditions
+
+| Social                 | Link | Date |
+| ---------------------- | ---- | ---- |
+| ![Telegram](images/telegram-icon.svg)   |      |      |
+| ![LinkedIn](images/linkedin-icon.svg)   |   https://lnkd.in/p/eve7_V7x   |   06-14   |
+| ![Twitter](images/twitter-icon.svg)     |      |      |
 ### 🗓️ Sunday (1405-xx-xx)
 - ⏱️ **Working Hours Today:** xx
 
